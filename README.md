@@ -5,6 +5,11 @@
 ### package 구조
 
 src /
-    codility_explain /
-                     / lesson {번호} /
-                                     / 
+    codility_explain 
+                     / lesson {번호}_상위과제명
+                                               / 하위과제명
+
+### 내부 클래스 구조
+- ExecutorMain.class
+- Solution.class
+                                      
